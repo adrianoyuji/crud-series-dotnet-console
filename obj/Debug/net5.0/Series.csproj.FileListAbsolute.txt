@@ -1,0 +1,16 @@
+/home/yujisato/Desktop/projects/dotnet/Series/bin/Debug/net5.0/Series
+/home/yujisato/Desktop/projects/dotnet/Series/bin/Debug/net5.0/Series.deps.json
+/home/yujisato/Desktop/projects/dotnet/Series/bin/Debug/net5.0/Series.runtimeconfig.json
+/home/yujisato/Desktop/projects/dotnet/Series/bin/Debug/net5.0/Series.runtimeconfig.dev.json
+/home/yujisato/Desktop/projects/dotnet/Series/bin/Debug/net5.0/Series.dll
+/home/yujisato/Desktop/projects/dotnet/Series/bin/Debug/net5.0/ref/Series.dll
+/home/yujisato/Desktop/projects/dotnet/Series/bin/Debug/net5.0/Series.pdb
+/home/yujisato/Desktop/projects/dotnet/Series/obj/Debug/net5.0/Series.csprojAssemblyReference.cache
+/home/yujisato/Desktop/projects/dotnet/Series/obj/Debug/net5.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/yujisato/Desktop/projects/dotnet/Series/obj/Debug/net5.0/Series.AssemblyInfoInputs.cache
+/home/yujisato/Desktop/projects/dotnet/Series/obj/Debug/net5.0/Series.AssemblyInfo.cs
+/home/yujisato/Desktop/projects/dotnet/Series/obj/Debug/net5.0/Series.csproj.CoreCompileInputs.cache
+/home/yujisato/Desktop/projects/dotnet/Series/obj/Debug/net5.0/Series.dll
+/home/yujisato/Desktop/projects/dotnet/Series/obj/Debug/net5.0/ref/Series.dll
+/home/yujisato/Desktop/projects/dotnet/Series/obj/Debug/net5.0/Series.pdb
+/home/yujisato/Desktop/projects/dotnet/Series/obj/Debug/net5.0/Series.genruntimeconfig.cache
